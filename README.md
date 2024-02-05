@@ -9,10 +9,6 @@ rate was approved is also displayed</p>
 
 <p>Current data on exchange rates is obtained using the API of the official website of the National Bank of Ukraine</p>
 
-<h2>Screenshots of the program execution</h2>
-
-![Telegram bot displays currency rates](./assets/screenshots.jpg) 
-
  <h2>Technologies Used</h2>
 
 <ul>
@@ -21,4 +17,7 @@ rate was approved is also displayed</p>
 <li>Spring Boot</li>
 </ul>
 
+<h2>Screenshots of the program execution</h2>
+
+![Telegram bot displays currency rates](./assets/screenshots.jpg) 
 
